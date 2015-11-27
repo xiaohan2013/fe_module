@@ -1,2 +1,5 @@
-# fe_module
-the think of front end modularity 
+#关于前端的模块化探索
+
+##1、采用当下流行的模块化管理工具Requirejs来进行模块化
+##2、
+
