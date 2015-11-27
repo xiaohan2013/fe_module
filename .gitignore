@@ -1,8 +1,3 @@
 #下面是我的gitignore文件的内容
-#忽略gitignore文件
-#.gitignore
-#忽略后缀名为.o和.a的文件
-#*.[oa]
-#显示指定忽略名称为main的文件
-#main
+#忽略该目录下第三方库文件
 /public/vendor
