@@ -1,0 +1,27 @@
+{
+  "name": "fe_module",
+  "homepage": "https://github.com/xiaohan2013/fe_module",
+  "authors": [
+    "xiaohan2013 <terryfi@163.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "~2.1.22",
+    "jquery": "1.11.3",
+    "bootstrap": "3.3.5",
+    "require-css": "~0.1.8",
+    "backbone": "~1.2.3",
+    "requirejs-underscore-tpl": "*"
+  }
+}
