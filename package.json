@@ -1,0 +1,19 @@
+{
+  "name": "fe-module",
+  "version": "1.0.0",
+  "description": "模块化，组件化",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaohan2013/fe_module.git"
+  },
+  "author": "xiaohan2013",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaohan2013/fe_module/issues"
+  },
+  "homepage": "https://github.com/xiaohan2013/fe_module#readme"
+}
